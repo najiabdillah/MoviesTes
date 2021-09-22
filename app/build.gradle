@@ -12,7 +12,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.example.movie_app"
+        applicationId "com.kojek.movie_app"
         minSdkVersion 26
         targetSdkVersion 30
         versionCode 1

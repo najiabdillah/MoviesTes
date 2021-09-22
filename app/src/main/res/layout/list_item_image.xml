@@ -8,11 +8,11 @@
 
         <variable
             name="goToInterface"
-            type="com.fredrikbogg.movie_app.data.model.GoToImage" />
+            type="com.kojek.movie_app.data.model.GoToImage" />
 
         <variable
             name="img"
-            type="com.fredrikbogg.movie_app.data.model.entity.Image" />
+            type="com.kojek.movie_app.data.model.entity.Image" />
 
     </data>
 

@@ -10,7 +10,7 @@
 
         <variable
             name="viewmodel"
-            type="com.fredrikbogg.movie_app.ui.person_details.PersonDetailsViewModel" />
+            type="com.kojek.movie_app.ui.person_details.PersonDetailsViewModel" />
     </data>
 
     <LinearLayout

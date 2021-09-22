@@ -10,7 +10,7 @@
 
         <variable
             name="viewmodel"
-            type="com.fredrikbogg.movie_app.ui.tv_show_details.TVShowDetailsViewModel" />
+            type="com.kojek.movie_app.ui.tv_show_details.TVShowDetailsViewModel" />
     </data>
 
 

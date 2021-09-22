@@ -8,7 +8,7 @@
 
         <variable
             name="viewmodel"
-            type="com.fredrikbogg.movie_app.ui.movies.MoviesViewModel" />
+            type="com.kojek.movie_app.ui.movies.MoviesViewModel" />
     </data>
 
 

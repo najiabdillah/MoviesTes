@@ -8,11 +8,11 @@
 
         <variable
             name="goToInterface"
-            type="com.fredrikbogg.movie_app.data.model.GoToCredit" />
+            type="com.kojek.movie_app.data.model.GoToCredit" />
 
         <variable
             name="credit"
-            type="com.fredrikbogg.movie_app.data.model.entity.Credit" />
+            type="com.kojek.movie_app.data.model.entity.Credit" />
 
     </data>
 

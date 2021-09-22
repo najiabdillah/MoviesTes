@@ -7,11 +7,11 @@
 
         <variable
             name="goToInterface"
-            type="com.fredrikbogg.movie_app.data.model.GoToVideo" />
+            type="com.kojek.movie_app.data.model.GoToVideo" />
 
         <variable
             name="video"
-            type="com.fredrikbogg.movie_app.data.model.entity.Video" />
+            type="com.kojek.movie_app.data.model.entity.Video" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

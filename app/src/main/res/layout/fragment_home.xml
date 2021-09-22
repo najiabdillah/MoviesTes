@@ -9,15 +9,15 @@
 
         <import type="android.view.View" />
 
-        <import type="com.fredrikbogg.movie_app.data.model.MovieListType" />
+        <import type="com.kojek.movie_app.data.model.MovieListType" />
 
         <variable
             name="goToInterface"
-            type="com.fredrikbogg.movie_app.data.model.GoToMovie" />
+            type="com.kojek.movie_app.data.model.GoToMovie" />
 
         <variable
             name="viewmodel"
-            type="com.fredrikbogg.movie_app.ui.home.HomeViewModel" />
+            type="com.kojek.movie_app.ui.home.HomeViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

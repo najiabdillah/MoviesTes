@@ -10,7 +10,7 @@
 
         <variable
             name="viewmodel"
-            type="com.fredrikbogg.movie_app.ui.movie_details.MovieDetailsViewModel" />
+            type="com.kojek.movie_app.ui.movie_details.MovieDetailsViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

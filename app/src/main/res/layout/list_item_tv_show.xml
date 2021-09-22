@@ -9,11 +9,11 @@
 
         <variable
             name="goToInterface"
-            type="com.fredrikbogg.movie_app.data.model.GoToTvShow" />
+            type="com.kojek.movie_app.data.model.GoToTvShow" />
 
         <variable
             name="tvShow"
-            type="com.fredrikbogg.movie_app.data.model.entity.TvShow" />
+            type="com.kojek.movie_app.data.model.entity.TvShow" />
 
     </data>
 

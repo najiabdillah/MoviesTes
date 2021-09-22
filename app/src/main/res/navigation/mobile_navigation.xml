@@ -6,7 +6,7 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.fredrikbogg.movie_app.ui.home.HomeFragment"
+        android:name="com.kojek.movie_app.ui.home.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home">
         <action
@@ -19,7 +19,7 @@
 
     <fragment
         android:id="@+id/navigation_movies"
-        android:name="com.fredrikbogg.movie_app.ui.movies.MoviesFragment"
+        android:name="com.kojek.movie_app.ui.movies.MoviesFragment"
         android:label="@string/title_movies"
         tools:layout="@layout/fragment_movies">
         <action
@@ -28,7 +28,7 @@
     </fragment>
     <fragment
         android:id="@+id/navigation_tv_shows"
-        android:name="com.fredrikbogg.movie_app.ui.tv_shows.TvShowsFragment"
+        android:name="com.kojek.movie_app.ui.tv_shows.TvShowsFragment"
         android:label="@string/title_tv_shows"
         tools:layout="@layout/fragment_tv_shows">
         <action
@@ -37,19 +37,19 @@
     </fragment>
     <fragment
         android:id="@+id/showAllFragment"
-        android:name="com.fredrikbogg.movie_app.ui.show_all.ShowAllFragment"
+        android:name="com.kojek.movie_app.ui.show_all.ShowAllFragment"
         android:label="{movieListTypeArg}"
         tools:layout="@layout/fragment_show_all">
         <argument
             android:name="movieListTypeArg"
-            app:argType="com.fredrikbogg.movie_app.data.model.MovieListType" />
+            app:argType="com.kojek.movie_app.data.model.MovieListType" />
         <action
             android:id="@+id/action_showAllFragment_to_movieDetailsFragment"
             app:destination="@id/movieDetailsFragment" />
     </fragment>
     <fragment
         android:id="@+id/movieDetailsFragment"
-        android:name="com.fredrikbogg.movie_app.ui.movie_details.MovieDetailsFragment"
+        android:name="com.kojek.movie_app.ui.movie_details.MovieDetailsFragment"
         android:label="{movieTitleArg}"
         tools:layout="@layout/fragment_movie_details">
         <argument
@@ -64,7 +64,7 @@
     </fragment>
     <fragment
         android:id="@+id/tvShowDetailsFragment"
-        android:name="com.fredrikbogg.movie_app.ui.tv_show_details.TvShowDetailsFragment"
+        android:name="com.kojek.movie_app.ui.tv_show_details.TvShowDetailsFragment"
         android:label="{tvShowTitleArg}"
         tools:layout="@layout/fragment_tv_show_details">
         <argument
@@ -79,7 +79,7 @@
     </fragment>
     <fragment
         android:id="@+id/personDetailsFragment"
-        android:name="com.fredrikbogg.movie_app.ui.person_details.PersonDetailsFragment"
+        android:name="com.kojek.movie_app.ui.person_details.PersonDetailsFragment"
         android:label="{personNameArg}"
         tools:layout="@layout/fragment_person_details">
         <argument

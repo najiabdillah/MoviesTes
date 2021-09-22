@@ -8,11 +8,11 @@
 
         <variable
             name="goToInterface"
-            type="com.fredrikbogg.movie_app.data.model.GoToCast" />
+            type="com.kojek.movie_app.data.model.GoToCast" />
 
         <variable
             name="cast"
-            type="com.fredrikbogg.movie_app.data.model.entity.Cast" />
+            type="com.kojek.movie_app.data.model.entity.Cast" />
 
     </data>
 
