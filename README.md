@@ -35,6 +35,3 @@ Model-View-ViewModel (MVVM)
 #### Requirements
 * Basic knowledge about Android Studio
 
-#### The Movie Database API
-1. Sign up and retrieve a API key from [The Movie Database API](https://www.themoviedb.org/documentation/api) 
-
